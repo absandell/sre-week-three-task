@@ -1,4 +1,4 @@
-The ticketing system for alert management had been a major point of contention among engineers. Complaints included recurring obsolete issues and a lack of clear prioritization for incoming issues. An example of the ticketing system's output is as follows:
+# The ticketing system for alert management had been a major point of contention among engineers. Complaints included recurring obsolete issues and a lack of clear prioritization for incoming issues. An example of the ticketing system's output is as follows:
 
 Zone XQ: EndpointRegistrationTransientFailure
 Zone OH-1: EndpointRegistrationTransientFailure
